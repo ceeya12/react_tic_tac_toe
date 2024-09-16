@@ -1,3 +1,5 @@
+//Game Board component
+
 export default function GameBoard({ onSelectSquare, board }) {
   //   const [gameBoard, setGameBoard] = useState(initialGameBoard);
 
